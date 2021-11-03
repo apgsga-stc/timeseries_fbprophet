@@ -1,0 +1,16 @@
+pandas
+numpy
+jupyterlab
+seaborn
+pandas-profiling[notebook]
+statsmodels
+scikit-learn
+fbprophet
+nb_black
+plotly
+
+pyarrow
+pip
+
+black
+requests
